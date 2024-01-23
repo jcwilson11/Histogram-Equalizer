@@ -36,8 +36,6 @@ To run the histogram equalization code:
 
 ---
 
-...
-
 ## **Execution and File Management**
 
 After building the project in Visual Studio, execute the compiled `.exe` file within the directory containing the executable and your image files. Use Windows PowerShell or Command Prompt for this task. Here's an example command to run the histogram equalization:
