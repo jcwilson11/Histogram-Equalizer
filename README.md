@@ -3,6 +3,8 @@
 ## **Repository Overview**
 This repository hosts all materials related to my Histogram Equalization project, which was created as part of my Introducton to Image Processing and Coding course at Stevens Institute of Technology. The project involved creating a software tool for enhancing image contrast using histogram equalization techniques, developed in Visual Studio and MATLAB.
 
+## ***This project is completed to work simply using the terminal, Visual Studio, and MATLAB. I would like to create a UI in order to make the process more seamless***
+
 ---
 
 ## **About the Creator: Joris Wilson**
